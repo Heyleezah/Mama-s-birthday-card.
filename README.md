@@ -39,7 +39,7 @@ button { margin-top:15px; padding:10px 18px; border:none; border-radius:20px; ba
     <div class="side front">
         <h1>Happy Birthday Mommy ❤️</h1>
         <!-- Replace the image below with her photo -->
-        <img src="https://i.imgur.com/4M34hi2.png" class="photo">
+        <img src="Mommy.jpg" class="photo">
         <div class="cake">🎂</div>
         <p>Hover to open your card</p>
     </div><div class="side back">
